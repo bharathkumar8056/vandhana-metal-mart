@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://vandhanaa-metal-mart.netlify.app/</loc>
+    <lastmod>2026-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Product Images for Image Search -->
+    <image:image>
+      <image:loc>https://vandhanaa-metal-mart.netlify.app/assets/vessel-1.jpg</image:loc>
+      <image:title>Premium Metal Vessel 1 - Vandhanaa Metal Mart</image:title>
+      <image:caption>High-quality stainless steel vessel for wholesale and export</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://vandhanaa-metal-mart.netlify.app/assets/vessel-16.jpg</image:loc>
+      <image:title>Premium Metal Vessel 16 - Vandhanaa Metal Mart</image:title>
+      <image:caption>Premium metal vessel for commercial use</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://vandhanaa-metal-mart.netlify.app/assets/vessel-10.jpg</image:loc>
+      <image:title>Premium Metal Vessel 10 - Vandhanaa Metal Mart</image:title>
+      <image:caption>Quality metal vessel for wholesale buyers</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://vandhanaa-metal-mart.netlify.app/assets/vessel-20.jpg</image:loc>
+      <image:title>Premium Metal Vessel 20 - Vandhanaa Metal Mart</image:title>
+      <image:caption>Stainless steel vessel for export markets</image:caption>
+    </image:image>
+  </url>
+  
+</urlset>
+
