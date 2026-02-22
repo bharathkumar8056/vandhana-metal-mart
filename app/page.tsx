@@ -4,6 +4,7 @@ import { Navbar } from '@/components/navbar';
 import { Hero } from '@/components/hero';
 import { About } from '@/components/about';
 import { Products } from '@/components/products';
+import Videos from '@/components/videos';
 import { Contact } from '@/components/contact';
 import { Footer } from '@/components/footer';
 
@@ -14,6 +15,7 @@ export default function Page() {
       <Hero />
       <About />
       <Products />
+      <Videos />
       <Contact />
       <Footer />
     </main>
